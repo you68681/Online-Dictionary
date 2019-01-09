@@ -42,7 +42,7 @@ public class dictionarysever {
 		}
 		public void run() {
 		String message;
-	    String name;
+	        String name;
 		String word;
 		String comtext;
 		String [] data;
